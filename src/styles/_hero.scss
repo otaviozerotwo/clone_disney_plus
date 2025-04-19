@@ -47,9 +47,11 @@
           color: variaveis.$corTextoSecundario;
           background-color: #6421FF;
           text-transform: uppercase;
+          border: none;
           border-radius: 4px;
           margin-top: 2vw;
           margin-bottom: 8px;
+          cursor: pointer;
         }
       }
     }
