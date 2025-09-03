@@ -5,8 +5,12 @@
   min-height: 80vh;
   background-image: url(../images/hero_desktop.jpeg);
   background-size: cover;
-  background-position: right center;
   text-align: center;
+
+  .button {
+    margin-top: 2vw;
+    margin-bottom: 8px;
+  }
 
   &__content {
     max-width: 640px;
